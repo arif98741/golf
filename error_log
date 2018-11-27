@@ -1,0 +1,370 @@
+[23-Oct-2018 11:46:33 Asia/Dhaka] PHP Warning:  unlink(uploads/attachment/): Is a directory in /home/aurasha/public_html/apps/classes/Manage.php on line 841
+[23-Oct-2018 11:46:34 Asia/Dhaka] PHP Warning:  unlink(uploads/attachment/): Is a directory in /home/aurasha/public_html/apps/classes/Manage.php on line 841
+[31-Oct-2018 10:35:01 Asia/Dhaka] PHP Warning:  unlink(uploads/attachment/): Is a directory in /home/aurasha/public_html/apps/classes/Manage.php on line 841
+[31-Oct-2018 10:35:01 Asia/Dhaka] PHP Warning:  unlink(uploads/attachment/): Is a directory in /home/aurasha/public_html/apps/classes/Manage.php on line 841
+[31-Oct-2018 10:35:01 Asia/Dhaka] PHP Warning:  unlink(uploads/attachment/): Is a directory in /home/aurasha/public_html/apps/classes/Manage.php on line 841
+[05-Nov-2018 12:48:49 Asia/Dhaka] PHP Warning:  unlink(uploads/attachment/): Is a directory in /home/aurasha/public_html/apps/classes/Manage.php on line 966
+[05-Nov-2018 12:58:41 Asia/Dhaka] PHP Warning:  unlink(uploads/attachment/): Is a directory in /home/aurasha/public_html/apps/classes/Manage.php on line 966
+[05-Nov-2018 12:58:41 Asia/Dhaka] PHP Warning:  unlink(uploads/attachment/): Is a directory in /home/aurasha/public_html/apps/classes/Manage.php on line 966
+[05-Nov-2018 13:10:34 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 32
+[05-Nov-2018 13:10:34 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 38
+[05-Nov-2018 13:10:34 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 44
+[05-Nov-2018 13:10:34 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 55
+[05-Nov-2018 13:10:34 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 62
+[05-Nov-2018 13:10:34 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 70
+[05-Nov-2018 13:10:34 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 76
+[05-Nov-2018 13:10:34 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 100
+[05-Nov-2018 13:10:34 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 106
+[05-Nov-2018 13:10:34 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 112
+[05-Nov-2018 13:10:34 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 142
+[05-Nov-2018 13:10:34 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 148
+[05-Nov-2018 13:10:34 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 154
+[05-Nov-2018 13:10:34 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 162
+[05-Nov-2018 13:10:34 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 168
+[05-Nov-2018 13:10:34 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 174
+[05-Nov-2018 13:10:34 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 196
+[05-Nov-2018 13:10:34 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 202
+[05-Nov-2018 13:10:34 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 208
+[05-Nov-2018 13:10:34 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 217
+[05-Nov-2018 13:10:34 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 224
+[05-Nov-2018 13:10:34 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 247
+[05-Nov-2018 13:10:34 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 248
+[05-Nov-2018 13:10:34 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 249
+[05-Nov-2018 13:10:34 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 250
+[05-Nov-2018 13:10:34 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 251
+[05-Nov-2018 13:10:34 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 258
+[05-Nov-2018 13:10:34 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 266
+[05-Nov-2018 13:10:34 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 272
+[05-Nov-2018 13:10:34 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 278
+[05-Nov-2018 13:10:34 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 284
+[05-Nov-2018 13:10:34 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 290
+[05-Nov-2018 13:10:34 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 298
+[05-Nov-2018 13:10:34 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 304
+[05-Nov-2018 13:10:34 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 310
+[05-Nov-2018 13:10:34 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 317
+[05-Nov-2018 13:10:34 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 323
+[05-Nov-2018 13:10:34 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 336
+[05-Nov-2018 13:10:34 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 342
+[05-Nov-2018 13:10:34 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 348
+[05-Nov-2018 13:10:34 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 354
+[05-Nov-2018 13:10:34 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 360
+[05-Nov-2018 13:10:34 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 371
+[05-Nov-2018 13:10:34 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 377
+[05-Nov-2018 13:10:34 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 383
+[05-Nov-2018 13:10:34 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 389
+[05-Nov-2018 13:10:34 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 395
+[05-Nov-2018 13:10:34 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 406
+[05-Nov-2018 13:10:34 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 412
+[05-Nov-2018 13:10:34 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 418
+[05-Nov-2018 13:10:34 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 424
+[05-Nov-2018 13:10:34 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 430
+[05-Nov-2018 13:10:34 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 453
+[05-Nov-2018 13:10:34 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 459
+[05-Nov-2018 13:10:34 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 465
+[05-Nov-2018 13:10:34 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 465
+[05-Nov-2018 13:10:34 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 471
+[05-Nov-2018 13:10:34 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 478
+[05-Nov-2018 13:10:34 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 500
+[05-Nov-2018 13:10:34 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 506
+[05-Nov-2018 13:10:34 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 512
+[05-Nov-2018 13:10:34 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 518
+[05-Nov-2018 13:10:34 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 526
+[05-Nov-2018 13:10:34 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 526
+[05-Nov-2018 13:10:34 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 526
+[05-Nov-2018 13:10:34 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 526
+[05-Nov-2018 13:10:34 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 526
+[05-Nov-2018 13:10:34 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 526
+[05-Nov-2018 13:10:34 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 526
+[05-Nov-2018 13:10:34 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 526
+[05-Nov-2018 13:10:34 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 526
+[05-Nov-2018 13:10:34 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 539
+[05-Nov-2018 13:10:34 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 563
+[05-Nov-2018 13:10:34 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 563
+[05-Nov-2018 13:10:34 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 572
+[05-Nov-2018 13:10:34 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 572
+[05-Nov-2018 13:10:34 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 581
+[05-Nov-2018 13:10:34 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 581
+[05-Nov-2018 13:10:48 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 32
+[05-Nov-2018 13:10:48 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 38
+[05-Nov-2018 13:10:48 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 44
+[05-Nov-2018 13:10:48 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 55
+[05-Nov-2018 13:10:48 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 62
+[05-Nov-2018 13:10:48 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 70
+[05-Nov-2018 13:10:48 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 76
+[05-Nov-2018 13:10:48 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 100
+[05-Nov-2018 13:10:48 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 106
+[05-Nov-2018 13:10:48 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 112
+[05-Nov-2018 13:10:48 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 142
+[05-Nov-2018 13:10:48 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 148
+[05-Nov-2018 13:10:48 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 154
+[05-Nov-2018 13:10:48 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 162
+[05-Nov-2018 13:10:48 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 168
+[05-Nov-2018 13:10:48 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 174
+[05-Nov-2018 13:10:48 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 196
+[05-Nov-2018 13:10:48 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 202
+[05-Nov-2018 13:10:48 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 208
+[05-Nov-2018 13:10:48 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 217
+[05-Nov-2018 13:10:48 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 224
+[05-Nov-2018 13:10:48 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 247
+[05-Nov-2018 13:10:48 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 248
+[05-Nov-2018 13:10:48 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 249
+[05-Nov-2018 13:10:48 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 250
+[05-Nov-2018 13:10:48 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 251
+[05-Nov-2018 13:10:48 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 258
+[05-Nov-2018 13:10:48 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 266
+[05-Nov-2018 13:10:48 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 272
+[05-Nov-2018 13:10:48 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 278
+[05-Nov-2018 13:10:48 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 284
+[05-Nov-2018 13:10:48 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 290
+[05-Nov-2018 13:10:48 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 298
+[05-Nov-2018 13:10:48 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 304
+[05-Nov-2018 13:10:48 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 310
+[05-Nov-2018 13:10:48 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 317
+[05-Nov-2018 13:10:48 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 323
+[05-Nov-2018 13:10:48 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 336
+[05-Nov-2018 13:10:48 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 342
+[05-Nov-2018 13:10:48 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 348
+[05-Nov-2018 13:10:48 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 354
+[05-Nov-2018 13:10:48 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 360
+[05-Nov-2018 13:10:48 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 371
+[05-Nov-2018 13:10:48 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 377
+[05-Nov-2018 13:10:48 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 383
+[05-Nov-2018 13:10:48 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 389
+[05-Nov-2018 13:10:48 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 395
+[05-Nov-2018 13:10:48 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 406
+[05-Nov-2018 13:10:48 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 412
+[05-Nov-2018 13:10:48 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 418
+[05-Nov-2018 13:10:48 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 424
+[05-Nov-2018 13:10:48 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 430
+[05-Nov-2018 13:10:48 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 453
+[05-Nov-2018 13:10:48 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 459
+[05-Nov-2018 13:10:48 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 465
+[05-Nov-2018 13:10:48 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 465
+[05-Nov-2018 13:10:48 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 471
+[05-Nov-2018 13:10:48 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 478
+[05-Nov-2018 13:10:48 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 500
+[05-Nov-2018 13:10:48 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 506
+[05-Nov-2018 13:10:48 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 512
+[05-Nov-2018 13:10:48 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 518
+[05-Nov-2018 13:10:48 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 526
+[05-Nov-2018 13:10:48 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 526
+[05-Nov-2018 13:10:48 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 526
+[05-Nov-2018 13:10:48 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 526
+[05-Nov-2018 13:10:48 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 526
+[05-Nov-2018 13:10:48 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 526
+[05-Nov-2018 13:10:48 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 526
+[05-Nov-2018 13:10:48 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 526
+[05-Nov-2018 13:10:48 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 526
+[05-Nov-2018 13:10:48 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 539
+[05-Nov-2018 13:10:48 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 563
+[05-Nov-2018 13:10:48 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 563
+[05-Nov-2018 13:10:48 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 572
+[05-Nov-2018 13:10:48 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 572
+[05-Nov-2018 13:10:48 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 581
+[05-Nov-2018 13:10:48 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 581
+[05-Nov-2018 13:11:22 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 32
+[05-Nov-2018 13:11:22 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 38
+[05-Nov-2018 13:11:22 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 44
+[05-Nov-2018 13:11:22 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 55
+[05-Nov-2018 13:11:22 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 62
+[05-Nov-2018 13:11:22 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 70
+[05-Nov-2018 13:11:22 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 76
+[05-Nov-2018 13:11:22 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 100
+[05-Nov-2018 13:11:22 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 106
+[05-Nov-2018 13:11:22 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 112
+[05-Nov-2018 13:11:22 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 142
+[05-Nov-2018 13:11:22 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 148
+[05-Nov-2018 13:11:22 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 154
+[05-Nov-2018 13:11:22 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 162
+[05-Nov-2018 13:11:22 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 168
+[05-Nov-2018 13:11:22 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 174
+[05-Nov-2018 13:11:22 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 196
+[05-Nov-2018 13:11:22 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 202
+[05-Nov-2018 13:11:22 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 208
+[05-Nov-2018 13:11:22 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 217
+[05-Nov-2018 13:11:22 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 224
+[05-Nov-2018 13:11:22 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 247
+[05-Nov-2018 13:11:22 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 248
+[05-Nov-2018 13:11:22 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 249
+[05-Nov-2018 13:11:22 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 250
+[05-Nov-2018 13:11:22 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 251
+[05-Nov-2018 13:11:22 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 258
+[05-Nov-2018 13:11:22 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 266
+[05-Nov-2018 13:11:22 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 272
+[05-Nov-2018 13:11:22 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 278
+[05-Nov-2018 13:11:22 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 284
+[05-Nov-2018 13:11:22 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 290
+[05-Nov-2018 13:11:22 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 298
+[05-Nov-2018 13:11:22 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 304
+[05-Nov-2018 13:11:22 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 310
+[05-Nov-2018 13:11:22 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 317
+[05-Nov-2018 13:11:22 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 323
+[05-Nov-2018 13:11:22 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 336
+[05-Nov-2018 13:11:22 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 342
+[05-Nov-2018 13:11:22 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 348
+[05-Nov-2018 13:11:22 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 354
+[05-Nov-2018 13:11:22 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 360
+[05-Nov-2018 13:11:22 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 371
+[05-Nov-2018 13:11:22 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 377
+[05-Nov-2018 13:11:22 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 383
+[05-Nov-2018 13:11:22 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 389
+[05-Nov-2018 13:11:22 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 395
+[05-Nov-2018 13:11:22 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 406
+[05-Nov-2018 13:11:22 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 412
+[05-Nov-2018 13:11:22 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 418
+[05-Nov-2018 13:11:22 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 424
+[05-Nov-2018 13:11:22 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 430
+[05-Nov-2018 13:11:22 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 453
+[05-Nov-2018 13:11:22 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 459
+[05-Nov-2018 13:11:22 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 465
+[05-Nov-2018 13:11:22 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 465
+[05-Nov-2018 13:11:22 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 471
+[05-Nov-2018 13:11:22 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 478
+[05-Nov-2018 13:11:22 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 500
+[05-Nov-2018 13:11:22 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 506
+[05-Nov-2018 13:11:22 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 512
+[05-Nov-2018 13:11:22 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 518
+[05-Nov-2018 13:11:22 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 526
+[05-Nov-2018 13:11:22 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 526
+[05-Nov-2018 13:11:22 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 526
+[05-Nov-2018 13:11:22 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 526
+[05-Nov-2018 13:11:22 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 526
+[05-Nov-2018 13:11:22 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 526
+[05-Nov-2018 13:11:22 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 526
+[05-Nov-2018 13:11:22 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 526
+[05-Nov-2018 13:11:22 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 526
+[05-Nov-2018 13:11:22 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 539
+[05-Nov-2018 13:11:22 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 563
+[05-Nov-2018 13:11:22 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 563
+[05-Nov-2018 13:11:22 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 572
+[05-Nov-2018 13:11:22 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 572
+[05-Nov-2018 13:11:22 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 581
+[05-Nov-2018 13:11:22 Asia/Dhaka] PHP Notice:  Undefined variable: applydata in /home/aurasha/public_html/apps/editapply.php on line 581
+[05-Nov-2018 16:10:14 Asia/Dhaka] PHP Warning:  unlink(uploads/attachment/): Is a directory in /home/aurasha/public_html/apps/classes/Manage.php on line 966
+[05-Nov-2018 16:10:14 Asia/Dhaka] PHP Warning:  unlink(uploads/attachment/): Is a directory in /home/aurasha/public_html/apps/classes/Manage.php on line 966
+[05-Nov-2018 16:10:14 Asia/Dhaka] PHP Warning:  unlink(uploads/attachment/): Is a directory in /home/aurasha/public_html/apps/classes/Manage.php on line 966
+[06-Nov-2018 17:13:01 Asia/Dhaka] PHP Warning:  unlink(uploads/attachment/): Is a directory in /home/aurasha/public_html/apps/classes/Manage.php on line 966
+[06-Nov-2018 17:13:01 Asia/Dhaka] PHP Warning:  unlink(uploads/attachment/): Is a directory in /home/aurasha/public_html/apps/classes/Manage.php on line 966
+[07-Nov-2018 09:50:20 Asia/Dhaka] PHP Warning:  unlink(uploads/attachment/): Is a directory in /home/aurasha/public_html/apps/classes/Manage.php on line 966
+[07-Nov-2018 09:50:20 Asia/Dhaka] PHP Warning:  unlink(uploads/attachment/): Is a directory in /home/aurasha/public_html/apps/classes/Manage.php on line 966
+[07-Nov-2018 09:50:20 Asia/Dhaka] PHP Warning:  unlink(uploads/attachment/): Is a directory in /home/aurasha/public_html/apps/classes/Manage.php on line 966
+[07-Nov-2018 10:05:07 Asia/Dhaka] PHP Warning:  unlink(uploads/attachment/): Is a directory in /home/aurasha/public_html/apps/classes/Manage.php on line 966
+[07-Nov-2018 10:05:07 Asia/Dhaka] PHP Warning:  unlink(uploads/attachment/): Is a directory in /home/aurasha/public_html/apps/classes/Manage.php on line 966
+[07-Nov-2018 10:07:28 Asia/Dhaka] PHP Warning:  unlink(uploads/attachment/): Is a directory in /home/aurasha/public_html/apps/classes/Manage.php on line 966
+[07-Nov-2018 10:07:28 Asia/Dhaka] PHP Warning:  unlink(uploads/attachment/): Is a directory in /home/aurasha/public_html/apps/classes/Manage.php on line 966
+[07-Nov-2018 10:16:21 Asia/Dhaka] PHP Warning:  unlink(uploads/attachment/): Is a directory in /home/aurasha/public_html/apps/classes/Manage.php on line 966
+[07-Nov-2018 10:16:21 Asia/Dhaka] PHP Warning:  unlink(uploads/attachment/): Is a directory in /home/aurasha/public_html/apps/classes/Manage.php on line 966
+[07-Nov-2018 10:19:50 Asia/Dhaka] PHP Warning:  unlink(uploads/attachment/): Is a directory in /home/aurasha/public_html/apps/classes/Manage.php on line 966
+[07-Nov-2018 10:19:50 Asia/Dhaka] PHP Warning:  unlink(uploads/attachment/): Is a directory in /home/aurasha/public_html/apps/classes/Manage.php on line 966
+[10-Nov-2018 17:07:22 Asia/Dhaka] PHP Warning:  unlink(uploads/attachment/): Is a directory in /home/aurasha/public_html/apps/classes/Manage.php on line 1015
+[10-Nov-2018 10:39:42 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/aurasha/public_html/apps/verification.php:1) in /home/aurasha/public_html/apps/classes/Session.php on line 6
+[10-Nov-2018 10:44:41 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/aurasha/public_html/apps/verification.php:1) in /home/aurasha/public_html/apps/classes/Session.php on line 6
+[10-Nov-2018 10:44:48 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/aurasha/public_html/apps/verification.php:1) in /home/aurasha/public_html/apps/classes/Session.php on line 6
+[10-Nov-2018 10:45:10 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/aurasha/public_html/apps/verification.php:1) in /home/aurasha/public_html/apps/classes/Session.php on line 6
+[10-Nov-2018 10:45:34 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/aurasha/public_html/apps/verification.php:1) in /home/aurasha/public_html/apps/classes/Session.php on line 6
+[10-Nov-2018 12:21:23 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/aurasha/public_html/apps/verification.php:1) in /home/aurasha/public_html/apps/classes/Session.php on line 6
+[10-Nov-2018 12:25:32 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/aurasha/public_html/apps/verification.php:1) in /home/aurasha/public_html/apps/classes/Session.php on line 6
+[10-Nov-2018 12:25:35 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/aurasha/public_html/apps/verification.php:1) in /home/aurasha/public_html/apps/classes/Session.php on line 6
+[10-Nov-2018 12:26:45 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/aurasha/public_html/apps/verification.php:1) in /home/aurasha/public_html/apps/classes/Session.php on line 6
+[10-Nov-2018 12:26:51 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/aurasha/public_html/apps/verification.php:1) in /home/aurasha/public_html/apps/classes/Session.php on line 6
+[10-Nov-2018 12:26:51 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/aurasha/public_html/apps/verification.php:1) in /home/aurasha/public_html/apps/classes/Session.php on line 6
+[10-Nov-2018 12:27:25 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/aurasha/public_html/apps/verification.php:1) in /home/aurasha/public_html/apps/classes/Session.php on line 6
+[10-Nov-2018 12:28:24 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/aurasha/public_html/apps/verification.php:1) in /home/aurasha/public_html/apps/classes/Session.php on line 6
+[10-Nov-2018 12:30:16 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/aurasha/public_html/apps/verification.php:1) in /home/aurasha/public_html/apps/classes/Session.php on line 6
+[10-Nov-2018 12:30:55 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/aurasha/public_html/apps/verification.php:1) in /home/aurasha/public_html/apps/classes/Session.php on line 6
+[10-Nov-2018 12:31:03 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/aurasha/public_html/apps/verification.php:1) in /home/aurasha/public_html/apps/classes/Session.php on line 6
+[10-Nov-2018 12:31:05 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/aurasha/public_html/apps/verification.php:1) in /home/aurasha/public_html/apps/classes/Session.php on line 6
+[10-Nov-2018 12:40:57 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/aurasha/public_html/apps/verification.php:1) in /home/aurasha/public_html/apps/classes/Session.php on line 6
+[11-Nov-2018 12:27:54 Asia/Dhaka] PHP Warning:  unlink(uploads/attachment/): Is a directory in /home/aurasha/public_html/apps/classes/Manage.php on line 1065
+[11-Nov-2018 12:27:55 Asia/Dhaka] PHP Warning:  unlink(uploads/attachment/): Is a directory in /home/aurasha/public_html/apps/classes/Manage.php on line 1065
+[11-Nov-2018 12:27:55 Asia/Dhaka] PHP Warning:  unlink(uploads/attachment/): Is a directory in /home/aurasha/public_html/apps/classes/Manage.php on line 1065
+[12-Nov-2018 01:32:03 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/aurasha/public_html/apps/verification.php:1) in /home/aurasha/public_html/apps/classes/Session.php on line 6
+[12-Nov-2018 01:33:46 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/aurasha/public_html/apps/verification.php:1) in /home/aurasha/public_html/apps/classes/Session.php on line 6
+[12-Nov-2018 01:34:40 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/aurasha/public_html/apps/verification.php:1) in /home/aurasha/public_html/apps/classes/Session.php on line 6
+[12-Nov-2018 01:35:12 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/aurasha/public_html/apps/verification.php:1) in /home/aurasha/public_html/apps/classes/Session.php on line 6
+[12-Nov-2018 01:38:27 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/aurasha/public_html/apps/verification.php:1) in /home/aurasha/public_html/apps/classes/Session.php on line 6
+[12-Nov-2018 05:51:43 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/aurasha/public_html/apps/verification.php:1) in /home/aurasha/public_html/apps/classes/Session.php on line 6
+[12-Nov-2018 05:52:06 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/aurasha/public_html/apps/verification.php:1) in /home/aurasha/public_html/apps/classes/Session.php on line 6
+[12-Nov-2018 05:52:36 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/aurasha/public_html/apps/verification.php:1) in /home/aurasha/public_html/apps/classes/Session.php on line 6
+[12-Nov-2018 05:53:12 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/aurasha/public_html/apps/verification.php:1) in /home/aurasha/public_html/apps/classes/Session.php on line 6
+[12-Nov-2018 05:53:49 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/aurasha/public_html/apps/verification.php:1) in /home/aurasha/public_html/apps/classes/Session.php on line 6
+[12-Nov-2018 05:55:05 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/aurasha/public_html/apps/verification.php:1) in /home/aurasha/public_html/apps/classes/Session.php on line 6
+[12-Nov-2018 05:55:07 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/aurasha/public_html/apps/verification.php:1) in /home/aurasha/public_html/apps/classes/Session.php on line 6
+[12-Nov-2018 05:55:09 America/Chicago] PHP Fatal error:  Class 'Session' not found in /home/aurasha/public_html/apps/verification.php on line 6
+[12-Nov-2018 05:55:13 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/aurasha/public_html/apps/verification.php:1) in /home/aurasha/public_html/apps/classes/Session.php on line 6
+[12-Nov-2018 05:55:14 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/aurasha/public_html/apps/verification.php:1) in /home/aurasha/public_html/apps/classes/Session.php on line 6
+[12-Nov-2018 05:55:42 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/aurasha/public_html/apps/verification.php:1) in /home/aurasha/public_html/apps/classes/Session.php on line 6
+[12-Nov-2018 05:56:13 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/aurasha/public_html/apps/verification.php:1) in /home/aurasha/public_html/apps/classes/Session.php on line 6
+[12-Nov-2018 05:56:26 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/aurasha/public_html/apps/verification.php:1) in /home/aurasha/public_html/apps/classes/Session.php on line 6
+[12-Nov-2018 05:58:26 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/aurasha/public_html/apps/verification.php:1) in /home/aurasha/public_html/apps/classes/Session.php on line 6
+[12-Nov-2018 05:59:31 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/aurasha/public_html/apps/verification.php:1) in /home/aurasha/public_html/apps/classes/Session.php on line 6
+[12-Nov-2018 06:00:12 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/aurasha/public_html/apps/verification.php:1) in /home/aurasha/public_html/apps/classes/Session.php on line 6
+[12-Nov-2018 06:02:26 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/aurasha/public_html/apps/verification.php:1) in /home/aurasha/public_html/apps/classes/Session.php on line 6
+[12-Nov-2018 06:03:02 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/aurasha/public_html/apps/verification.php:1) in /home/aurasha/public_html/apps/classes/Session.php on line 6
+[12-Nov-2018 06:04:41 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/aurasha/public_html/apps/verification.php:1) in /home/aurasha/public_html/apps/classes/Session.php on line 6
+[12-Nov-2018 06:05:44 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/aurasha/public_html/apps/verification.php:1) in /home/aurasha/public_html/apps/classes/Session.php on line 6
+[12-Nov-2018 06:06:36 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/aurasha/public_html/apps/verification.php:1) in /home/aurasha/public_html/apps/classes/Session.php on line 6
+[12-Nov-2018 06:06:39 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/aurasha/public_html/apps/verification.php:1) in /home/aurasha/public_html/apps/classes/Session.php on line 6
+[12-Nov-2018 06:07:35 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/aurasha/public_html/apps/verification.php:1) in /home/aurasha/public_html/apps/classes/Session.php on line 6
+[12-Nov-2018 06:11:27 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/aurasha/public_html/apps/verification.php:1) in /home/aurasha/public_html/apps/verification.php on line 7
+[12-Nov-2018 06:11:27 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/aurasha/public_html/apps/verification.php:1) in /home/aurasha/public_html/apps/verification.php on line 7
+[12-Nov-2018 06:11:27 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aurasha/public_html/apps/verification.php:1) in /home/aurasha/public_html/apps/verification.php on line 9
+[12-Nov-2018 06:11:35 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/aurasha/public_html/apps/verification.php:1) in /home/aurasha/public_html/apps/verification.php on line 7
+[12-Nov-2018 06:11:35 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/aurasha/public_html/apps/verification.php:1) in /home/aurasha/public_html/apps/verification.php on line 7
+[12-Nov-2018 06:11:35 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aurasha/public_html/apps/verification.php:1) in /home/aurasha/public_html/apps/verification.php on line 9
+[12-Nov-2018 06:11:59 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/aurasha/public_html/apps/verification.php:1) in /home/aurasha/public_html/apps/verification.php on line 7
+[12-Nov-2018 06:11:59 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/aurasha/public_html/apps/verification.php:1) in /home/aurasha/public_html/apps/verification.php on line 7
+[12-Nov-2018 06:11:59 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aurasha/public_html/apps/verification.php:1) in /home/aurasha/public_html/apps/verification.php on line 9
+[12-Nov-2018 06:12:15 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/aurasha/public_html/apps/verification.php:1) in /home/aurasha/public_html/apps/verification.php on line 7
+[12-Nov-2018 06:12:15 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/aurasha/public_html/apps/verification.php:1) in /home/aurasha/public_html/apps/verification.php on line 7
+[12-Nov-2018 06:12:15 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aurasha/public_html/apps/verification.php:1) in /home/aurasha/public_html/apps/verification.php on line 9
+[12-Nov-2018 06:12:58 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aurasha/public_html/apps/verification.php:1) in /home/aurasha/public_html/apps/verification.php on line 9
+[12-Nov-2018 06:13:14 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aurasha/public_html/apps/verification.php:1) in /home/aurasha/public_html/apps/verification.php on line 9
+[12-Nov-2018 06:15:31 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aurasha/public_html/apps/verification.php:1) in /home/aurasha/public_html/apps/verification.php on line 9
+[12-Nov-2018 06:19:36 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/aurasha/public_html/apps/verification.php:1) in /home/aurasha/public_html/apps/verification.php on line 7
+[12-Nov-2018 06:19:36 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/aurasha/public_html/apps/verification.php:1) in /home/aurasha/public_html/apps/verification.php on line 7
+[12-Nov-2018 06:19:36 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aurasha/public_html/apps/verification.php:1) in /home/aurasha/public_html/apps/verification.php on line 11
+[12-Nov-2018 06:21:11 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/aurasha/public_html/apps/verification.php:1) in /home/aurasha/public_html/apps/verification.php on line 7
+[12-Nov-2018 06:21:11 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/aurasha/public_html/apps/verification.php:1) in /home/aurasha/public_html/apps/verification.php on line 7
+[12-Nov-2018 06:21:11 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aurasha/public_html/apps/verification.php:1) in /home/aurasha/public_html/apps/verification.php on line 11
+[12-Nov-2018 06:21:14 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/aurasha/public_html/apps/verification.php:1) in /home/aurasha/public_html/apps/verification.php on line 7
+[12-Nov-2018 06:21:14 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/aurasha/public_html/apps/verification.php:1) in /home/aurasha/public_html/apps/verification.php on line 7
+[12-Nov-2018 06:21:14 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aurasha/public_html/apps/verification.php:1) in /home/aurasha/public_html/apps/verification.php on line 11
+[12-Nov-2018 06:21:15 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/aurasha/public_html/apps/verification.php:1) in /home/aurasha/public_html/apps/verification.php on line 7
+[12-Nov-2018 06:21:15 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/aurasha/public_html/apps/verification.php:1) in /home/aurasha/public_html/apps/verification.php on line 7
+[12-Nov-2018 06:21:15 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aurasha/public_html/apps/verification.php:1) in /home/aurasha/public_html/apps/verification.php on line 11
+[12-Nov-2018 06:22:39 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/aurasha/public_html/apps/verification.php:1) in /home/aurasha/public_html/apps/verification.php on line 7
+[12-Nov-2018 06:22:39 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/aurasha/public_html/apps/verification.php:1) in /home/aurasha/public_html/apps/verification.php on line 7
+[12-Nov-2018 06:24:03 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/aurasha/public_html/apps/verification.php:1) in /home/aurasha/public_html/apps/classes/Session.php on line 6
+[12-Nov-2018 06:24:03 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/aurasha/public_html/apps/verification.php:1) in /home/aurasha/public_html/apps/classes/Session.php on line 6
+[12-Nov-2018 06:24:03 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aurasha/public_html/apps/verification.php:1) in /home/aurasha/public_html/apps/classes/Session.php on line 39
+[12-Nov-2018 06:24:03 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aurasha/public_html/apps/verification.php:1) in /home/aurasha/public_html/apps/classes/Session.php on line 26
+[12-Nov-2018 06:24:03 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aurasha/public_html/apps/verification.php:1) in /home/aurasha/public_html/apps/verification.php on line 7
+[12-Nov-2018 06:28:27 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/aurasha/public_html/apps/verification.php:1) in /home/aurasha/public_html/apps/classes/Session.php on line 6
+[12-Nov-2018 06:28:27 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/aurasha/public_html/apps/verification.php:1) in /home/aurasha/public_html/apps/classes/Session.php on line 6
+[12-Nov-2018 06:28:27 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aurasha/public_html/apps/verification.php:1) in /home/aurasha/public_html/apps/classes/Session.php on line 39
+[12-Nov-2018 06:28:27 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aurasha/public_html/apps/verification.php:1) in /home/aurasha/public_html/apps/classes/Session.php on line 26
+[12-Nov-2018 06:28:27 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aurasha/public_html/apps/verification.php:1) in /home/aurasha/public_html/apps/verification.php on line 7
+[12-Nov-2018 06:29:35 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/aurasha/public_html/apps/verification.php:1) in /home/aurasha/public_html/apps/classes/Session.php on line 6
+[12-Nov-2018 06:29:35 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/aurasha/public_html/apps/verification.php:1) in /home/aurasha/public_html/apps/classes/Session.php on line 6
+[12-Nov-2018 06:29:35 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aurasha/public_html/apps/verification.php:1) in /home/aurasha/public_html/apps/classes/Session.php on line 39
+[12-Nov-2018 06:29:35 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aurasha/public_html/apps/verification.php:1) in /home/aurasha/public_html/apps/classes/Session.php on line 26
+[12-Nov-2018 06:29:35 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aurasha/public_html/apps/verification.php:1) in /home/aurasha/public_html/apps/verification.php on line 7
+[12-Nov-2018 06:30:36 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/aurasha/public_html/apps/verification.php:1) in /home/aurasha/public_html/apps/classes/Session.php on line 6
+[12-Nov-2018 09:22:45 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/aurasha/public_html/apps/verification.php:1) in /home/aurasha/public_html/apps/classes/Session.php on line 6
+[12-Nov-2018 09:22:45 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/aurasha/public_html/apps/verification.php:1) in /home/aurasha/public_html/apps/classes/Session.php on line 6
+[12-Nov-2018 09:22:45 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aurasha/public_html/apps/verification.php:1) in /home/aurasha/public_html/apps/classes/Session.php on line 39
+[12-Nov-2018 09:22:45 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aurasha/public_html/apps/verification.php:1) in /home/aurasha/public_html/apps/classes/Session.php on line 26
+[12-Nov-2018 09:22:45 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aurasha/public_html/apps/verification.php:1) in /home/aurasha/public_html/apps/verification.php on line 7
+[12-Nov-2018 10:32:30 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/aurasha/public_html/apps/verification.php:1) in /home/aurasha/public_html/apps/classes/Session.php on line 6
+[12-Nov-2018 10:32:30 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/aurasha/public_html/apps/verification.php:1) in /home/aurasha/public_html/apps/classes/Session.php on line 6
+[12-Nov-2018 10:32:30 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aurasha/public_html/apps/verification.php:1) in /home/aurasha/public_html/apps/classes/Session.php on line 39
+[12-Nov-2018 10:32:30 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aurasha/public_html/apps/verification.php:1) in /home/aurasha/public_html/apps/classes/Session.php on line 26
+[12-Nov-2018 10:32:30 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aurasha/public_html/apps/verification.php:1) in /home/aurasha/public_html/apps/verification.php on line 7
+[12-Nov-2018 10:43:35 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/aurasha/public_html/apps/verification.php:1) in /home/aurasha/public_html/apps/classes/Session.php on line 6
+[12-Nov-2018 10:46:30 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/aurasha/public_html/apps/verification.php:1) in /home/aurasha/public_html/apps/classes/Session.php on line 6
+[15-Nov-2018 13:13:06 Asia/Dhaka] PHP Warning:  unlink(uploads/attachment/): Is a directory in /home/aurasha/public_html/apps/classes/Manage.php on line 1063
+[15-Nov-2018 13:13:06 Asia/Dhaka] PHP Warning:  unlink(uploads/attachment/): Is a directory in /home/aurasha/public_html/apps/classes/Manage.php on line 1063
+[15-Nov-2018 14:10:39 Asia/Dhaka] PHP Warning:  unlink(uploads/attachment/): Is a directory in /home/aurasha/public_html/apps/classes/Manage.php on line 1063
+[15-Nov-2018 15:20:34 Asia/Dhaka] PHP Notice:  Undefined index: cbuildingdetails in /home/aurasha/public_html/apps/apply2.php on line 1100
+[15-Nov-2018 15:22:06 Asia/Dhaka] PHP Notice:  Undefined index: cbuildingdetails in /home/aurasha/public_html/apps/apply2.php on line 1100

@@ -1,0 +1,11 @@
+.idea
+.phpintel
+uploads/*
+database/*
+uploads/*
+uploads/applicant_photo/*
+uploads/attachment/*
+uploads/important/*
+sql/*
+*.zip
+works/*
